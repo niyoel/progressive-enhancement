@@ -1,0 +1,26 @@
+body
+{
+/*gradient*/
+background: linear-gradient(90deg, #1687ED 0%, #1687ED 50%, #14375A 50%);
+/*margin center */
+width: 90%;
+margin: auto;
+width: 50%;
+}
+
+
+table
+{
+    border-collapse: collapse;
+    
+    
+}
+td { 
+    border-top: 3px dotted black; 
+    border-right: 3px dashed black;
+    border-bottom: 3px dotted black;
+    border-left: 3px dashed black;
+    padding: 20px;
+
+ }
+ 
